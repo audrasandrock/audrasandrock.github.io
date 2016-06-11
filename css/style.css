@@ -109,7 +109,8 @@ ul.nav{
 
 /*banner area*/
 .banner{
-	background: url(../img/banner.jpg);
+	background: url();
+	background-color: 000000;
 	background-repeat: no-repeat;
 	background-position: center;
 	overflow: hidden;
