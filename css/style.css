@@ -533,3 +533,7 @@ ul.nav{
 .footer p a:hover{
 	color: #008ed6;
 }
+.enlarge:hover {
+	transform:scale(2,2);
+	transform-origin:0 0;
+}
