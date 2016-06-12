@@ -44,7 +44,7 @@ h2{
 }
 /*header area*/
 .top-header{
-	background:transparent;
+	background-color:black;
 	position: fixed;
 	width: 100%;
 	z-index: 999;
@@ -63,7 +63,7 @@ h2{
 	-ms-transition: all .7s ease 0s;
 }
 .navbar-default {
-  background-color: transparent;
+  background-color: black;
   border-color: transparent;
   margin-bottom: 0;
 }
@@ -97,11 +97,11 @@ ul.nav{
 }
 .navbar-default .navbar-nav>li>a:hover{
 	color: #fff;
-	border-bottom: 2px solid #008ed6;
+	border-bottom: 2px solid #f2f2f2;
 }
 .navbar-default .navbar-nav>li>a.active{
 	color: #fff;
-	border-bottom: 2px solid #008ed6;
+	border-bottom: 2px solid #f2f2f2;
 }
 .navbar-default .navbar-toggle {
   border-color: #fff;
@@ -110,7 +110,7 @@ ul.nav{
 /*banner area*/
 .banner{
 	background: url(http://i68.tinypic.com/8vq0w5.jpg);
-	background-color: 000000;
+	background-color: black;
 	background-repeat: no-repeat;
 	background-position: center;
 	overflow: hidden;
