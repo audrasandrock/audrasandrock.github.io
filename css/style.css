@@ -12,7 +12,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	font-family: 'Tahoma', sans-serif;
+	font-family: 'Antonio', 'Archivo Narrow','Tahoma', sans-serif;
 	box-sizing: border-box;
 }
 li{
@@ -125,7 +125,7 @@ ul.nav{
 	font-weight: 700;
 }
 .banner h1{
-	font family: Antonio, Archivo Narrow, Tahoma;
+	font family: 'Antonio', 'Archivo Narrow', Tahoma;
 	font-size: 60px;
 	color: #fff;
 }
