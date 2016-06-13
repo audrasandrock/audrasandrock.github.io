@@ -170,7 +170,7 @@ ul.nav{
 	background-color:#f2f2f2;
 	margin:auto;
 	display: block;
-	margin-bottom: 50px;
+	margin-bottom: 15px;
 }
 .features i.fa{
 	font-size: 25px;
@@ -199,7 +199,7 @@ ul.nav{
 .features p{
 	font-size: 18px;
 	color: #999999;
-	margin-bottom: 70px;
+	margin-bottom: 20px;
 }
 /*details area*/
 .details-phone{
