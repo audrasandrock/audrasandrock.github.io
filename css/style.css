@@ -7,7 +7,7 @@
 body{
 	margin: 0;
 	padding: 0px 20px 0px 20px;
-	font-family: 'Antonio', 'Archivo Narrow','Tahoma', sans-serif;
+	font-family: 'Arial-Narrow', Antonio', 'Archivo Narrow','Tahoma', sans-serif;
 	box-sizing: border-box;
 }
 li{
@@ -166,6 +166,11 @@ ul.nav{
 }
 
 /*features area*/
+
+.features{
+	background-color:#f2f2f2;
+	width: 70%;
+}
 .features img{
 	background-color:#f2f2f2;
 	margin:auto;
